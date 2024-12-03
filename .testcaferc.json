@@ -1,0 +1,9 @@
+{
+    "selectorTimeout": 10000,
+    "assertionTimeout": 10000,
+    "skipUncaughtErrors": true,
+    "skipJsErrors": true,
+    "stopOnFirstFail": true,
+    "disableNativeAutomation": true,
+    "quarantineMode": { "successThreshold": 1, "attemptLimit": 6 }
+}
